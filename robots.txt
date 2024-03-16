@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://andrewandreevich.github.io//al-folio/sitemap.xml
+Sitemap: https://andrewandreevich.github.io/XR//al-folio/sitemap.xml
