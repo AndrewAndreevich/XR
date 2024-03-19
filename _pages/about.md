@@ -2,17 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
 ---
 
 # XR-110 Mixed Reality
@@ -63,21 +61,27 @@ Modeling
 *	UV
 *	Texturing
 *	Materials
+
 Scanning
 *	Object Analysis
 *	Shooting
 *	Model processing
 *	Retopology
 *	Rebaking
+
 Installation and use of XR SDK
 *	Oculus SDK API
 *	Gestures
+
 Triggers and Colliders
 *	Collision Handling 
 *	Running custom scripts
+
 Teamwork
+
 *	Git and Github
 *	Youtrack
+
 Briefs and Interactions with Clients
 *	How to interact with clients 
 *	Healthy Boundaries
@@ -100,8 +104,11 @@ Library about Georgia on Rustaveli gives the up-to-date office hours of all inst
 ### Schedule
 
 Preliminary time information: The start date of classes is April 15. 
+
 The time interval is from 12 pm to 20 pm. 
+
 The duration of the lesson for one group is 2-3 hours. 
+
 Event days - Monday, Tuesday, Thursday, Friday 
 
 The exact start date of classes and the time of classes will be specified in the near future, you will receive a notification. Information may be changed to make attending the course more convenient and accessible. By filling out the participation form, you indicate a time convenient for you that will be taken into account.
