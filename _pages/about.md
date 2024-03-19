@@ -40,3 +40,6 @@ Briefs and Client Interaction
 ```
 
 The structure of the course is partly built on how the division and certification is arranged for Unity Technologies company :
+
+{% include figure.liquid loading="eager" path="assets/course_images/img_1_sertifications.jpg" class="img-fluid rounded z-depth-1" %}
+
