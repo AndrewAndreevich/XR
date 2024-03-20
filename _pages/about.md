@@ -14,6 +14,7 @@ profile:
 ## Overview
 
 XR-110  is an introductory course on mixed and augmented reality technologies. Within this course, over the course of a month, we will implement a prototype application for virtual and augmented reality glasses (Oculus Quest 2 and 3). 
+
 As a referencewe take a project implemented in collaboration with the government of Mestia ( [link 1](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-3d-%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%9A%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%90) , [link 2](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-%E1%83%A2%E1%83%94%E1%83%A5%E1%83%9C%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%99%E1%83%9A%E1%83%A3%E1%83%91%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%A4%E1%83%A3%E1%83%AB%E1%83%9C%E1%83%94%E1%83%91%E1%83%90)), which is a digital, interactive replica of real terrain.
 
 The objectives of this course are twofold: initially to acquaint students with the basics of creating and working with XR technologies in three groups - [Programming](/XR-110/programming/), [Visual Design](/XR-110/visual_design/) and [Real-Time Graphics Engine](/XR-110/rtge/). In the next stage, these groups will be transformed into teams that will implement a prototype for a real project. Within this framework, it will be necessary to interact with external artists - "clients", use a version control system, and project management system. The final stage will be a presentation - exhibition.
@@ -92,6 +93,7 @@ At the project stage, tasks will be solved in groups, but the task will be divid
 ### Course Logistics
 
 Library about Georgia on Rustaveli gives the up-to-date office hours of all instructors for this class. 
+
 Address of classes : 3 Vasil Barnov St, Tbilisi, Rustaveli metro station
 
 {% include figure.liquid loading="eager" path="assets/img/course_images/img_7_map.jpg" class="img-fluid rounded z-depth-1" %}
@@ -101,8 +103,11 @@ Address of classes : 3 Vasil Barnov St, Tbilisi, Rustaveli metro station
 Preliminary time information: 
 
 The start date of classes is April 15. 
+
 The time interval is from 12 pm to 20 pm. 
+
 The duration of the lesson for one group is 2-3 hours. 
+
 Event days - Monday, Tuesday, Thursday, Friday 
 
 The exact start date of classes and the time of classes will be specified in the near future, you will receive a notification. Information may be changed to make attending the course more convenient and accessible. By filling out the participation form, you indicate a time convenient for you that will be taken into account.
@@ -129,12 +134,15 @@ At this stage, we will organize an event in which we will demonstrate our projec
 
 ### Slides from Lectures and Recitations
 
-Will be placed in the course area at: [HERE](https://drive.google.com/drive/folders/1eQ3BigRqEl0Loy-CkIh5MEEu0XjNDinw?usp=drive_link) soon after each lecture and recitation.
+Will be placed in the course area at [google drive](https://drive.google.com/drive/folders/1eQ3BigRqEl0Loy-CkIh5MEEu0XjNDinw?usp=drive_link) soon after each lecture and recitation.
+
 If you are authenticated at [Youtrack](https://aaorg.youtrack.cloud/), you can also access individual directories via links at relevant lesson task
+
 These notes are for your personal use only. Please do not distribute them.
 
 ### Exhibition 
 The completion of the project will be a presentation - an event at which we will demonstrate our work together with the artists participating in the project. The date of the exhibition, preparation for it and other stages will be discussed directly at the training courses.
+
 
 
 
