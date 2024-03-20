@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /visual_design/
-title: visual design
-description: Materials for courses you taught. Replace this text with your description.
-
+title: 
+description: 
+nav: true
+nav_order: 1
 ---
 
 # XR-112 Visual Design
@@ -26,5 +27,4 @@ Organize your courses by years, topics, or universities, however you like!
 
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNDD7ub3WQtzrB1OKU7HPaF-F8DtV4qVh5XcHlxyCRPgT1iQ/viewform?embedded=true" width="100%" height="1466" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
