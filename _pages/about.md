@@ -17,7 +17,13 @@ XR-110  is an introductory course on mixed and augmented reality technologies. W
 
 As a referencewe take a project implemented in collaboration with the government of Mestia ( [link 1](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-3d-%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%9A%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%90) , [link 2](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-%E1%83%A2%E1%83%94%E1%83%A5%E1%83%9C%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%99%E1%83%9A%E1%83%A3%E1%83%91%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%A4%E1%83%A3%E1%83%AB%E1%83%9C%E1%83%94%E1%83%91%E1%83%90)), which is a digital, interactive replica of real terrain.
 
-The objectives of this course are twofold: initially to acquaint students with the basics of creating and working with XR technologies in three groups - [Programming](/XR-110/programming/), [Visual Design](/XR-110/visual_design/) and [Real-Time Graphics Engine](/XR-110/rtge/). In the next stage, these groups will be transformed into teams that will implement a prototype for a real project. Within this framework, it will be necessary to interact with external artists - "clients", use a version control system, and project management system. The final stage will be a presentation - exhibition.
+The objectives of this course are twofold: initially to acquaint students with the basics of creating and working with XR technologies in three groups:
+
+[Programming](/XR-110/programming/)
+[Visual Design](/XR-110/visual_design/)
+[Real-Time Graphics Engine](/XR-110/rtge/)
+
+In the next stage, these groups will be transformed into teams that will implement a prototype for a real project. Within this framework, it will be necessary to interact with external artists - "clients", use a version control system, and project management system. The final stage will be a presentation - exhibition.
 
 #### The main topics to be covered in this course include:
 
@@ -94,7 +100,7 @@ At the project stage, tasks will be solved in groups, but the task will be divid
 
 Library about Georgia on Rustaveli gives the up-to-date office hours of all instructors for this class. 
 
-Address of classes : 3 Vasil Barnov St, Tbilisi, Rustaveli metro station
+Address of classes : [3 Vasil Barnov St, Tbilisi, Rustaveli metro station]( https://www.google.com/maps/place/41%C2%B042'12.4%22N+44%C2%B047'23.1%22E/@41.7034314,44.7891036,19z/data=!3m1!4b1!4m4!3m3!8m2!3d41.7034304!4d44.7897473?entry=ttu ) 
 
 {% include figure.liquid loading="eager" path="assets/img/course_images/img_7_map.jpg" class="img-fluid rounded z-depth-1" %}
 
