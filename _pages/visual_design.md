@@ -3,8 +3,7 @@ layout: page
 permalink: /visual_design/
 title: visual design
 description: Materials for courses you taught. Replace this text with your description.
-nav: true
-nav_order: 1
+
 ---
 
 # XR-112 Visual Design
@@ -19,8 +18,11 @@ Organize your courses by years, topics, or universities, however you like!
 
 
 
- <a href="https://forms.gle/g8a6FArvFEDyVBhb9">Fill the form</a> 
 
+<a href="https://forms.gle/g8a6FArvFEDyVBhb9" style="background: linear-gradient(90deg, #AC95FE 0%, #9C84EC 100%);text-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);text-transform: uppercase;text-decoration: none;border-radius: 12px;margin-right: auto;text-align: center;line-height: 58px;font-weight: bold;margin-left: auto;font-size: 16px;display: block;color: white;width: 280px;height: 58px;">
+  Fill the form
+</a>
+ 
 
 
 
