@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: about
 permalink: /visual_design/
-title: 
+title: visual design
 description: 
 nav: true
 nav_order: 1
