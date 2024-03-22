@@ -1,13 +1,13 @@
 ---
 layout: about
-permalink: /rtge
-title: rtge
+permalink: /rtre/
+title: rtre
 description: 
 nav: true
 nav_order: 3
 ---
 
-# XR-114 Real-time Graphics Engine
+# XR-114 Real-time Render Engine
 ##### Spring 2024
 ## Overview
 
