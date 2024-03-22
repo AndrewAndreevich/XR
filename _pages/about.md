@@ -47,6 +47,9 @@ In the next stage, these groups will be transformed into teams that will impleme
 On the other hand, the structural division is combined at one stage in order to make it clear that such projects are almost always the result of coordinated work of different departments of the team.
 
 {% include figure.liquid loading="eager" path="assets/img/course_images/img_2_self.jpg" class="img-fluid rounded z-depth-1" %}
+ 
+Classes will be held offline. Groups will consist of 3-4 people. In total, ~9 people will work on the final project, divided into departments by specialization. Language of classes - English
+
 
 ### Teacher 
 Aranovich Andrei Andreevich is a specialist in the field of XR development and creation of digital twins with more than 10 years of experience. Winner of the hackathon “Digital Breakthrough 2019” in the category “observation and analysis of human behavior using computer vision” - registered in the Guinness Book of Records as the largest in the world in terms of the number of participants.
@@ -151,6 +154,11 @@ These notes are for your personal use only. Please do not distribute them.
 ### Exhibition 
 The completion of the project will be a presentation - an event at which we will demonstrate our work together with the artists participating in the project. The date of the exhibition, preparation for it and other stages will be discussed directly at the training courses.
 
+
+<a href="https://forms.gle/PZ2xH34kF1reNrBM8" style="background: #2698ba ;text-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);text-transform: uppercase;text-decoration: none;border-radius: 12px;margin-right: auto;text-align: center;line-height: 58px;font-weight: bold;margin-left: auto;font-size: 16px;display: block;color: white;width: 280px;height: 58px;">
+  Fill the form
+</a>
+ 
 
 ---
 
