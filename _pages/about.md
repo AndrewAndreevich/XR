@@ -15,7 +15,7 @@ profile:
 
 XR-110  is an introductory course on mixed and augmented reality technologies. Within this course, over the course of a month, we will implement a prototype application for virtual and augmented reality glasses (Oculus Quest 2 and 3). 
 
-As a referencewe take a project implemented in collaboration with the government of Mestia ([link 1](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-3d-%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%9A%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%90),[link 2](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-%E1%83%A2%E1%83%94%E1%83%A5%E1%83%9C%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%99%E1%83%9A%E1%83%A3%E1%83%91%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%A4%E1%83%A3%E1%83%AB%E1%83%9C%E1%83%94%E1%83%91%E1%83%90)), which is a digital, interactive replica of real terrain.
+As a referencewe take a project implemented in collaboration with the government of Mestia, which is a digital, interactive replica of real terrain ([link 1](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-3d-%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%9A%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%90),[link 2](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-%E1%83%A2%E1%83%94%E1%83%A5%E1%83%9C%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%99%E1%83%9A%E1%83%A3%E1%83%91%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%A4%E1%83%A3%E1%83%AB%E1%83%9C%E1%83%94%E1%83%91%E1%83%90))
 
 The objectives of this course are twofold: initially to acquaint students with the basics of creating and working with XR technologies in three groups:
 
@@ -126,7 +126,7 @@ The exact start date of classes and the time of classes will be specified in the
 During the course there will be 4 check points, these are: 
 
 ###### 01 - Introductory part 
-on which we will analyze the specifics of your chosen direction within the XR industry. Let's look at where and how, as well as master the basic software tools. 
+There we will analyze the specifics of your chosen direction within the XR industry. Let's look at where and how, as well as master the basic software tools. 
 
 ###### 02 - Basic training 
 Over the course of a series of lessons, we will go through basic concepts and techniques that will help us in working on the project. 
