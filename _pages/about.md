@@ -17,7 +17,9 @@ XR-110  is an introductory course on mixed and augmented reality technologies. W
 
 As a referencewe take a project implemented in collaboration with the government of Mestia, which is a digital, interactive replica of real terrain ([link 1](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-3d-%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%9A%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%90),[link 2](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-%E1%83%A2%E1%83%94%E1%83%A5%E1%83%9C%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%99%E1%83%9A%E1%83%A3%E1%83%91%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%A4%E1%83%A3%E1%83%AB%E1%83%9C%E1%83%94%E1%83%91%E1%83%90))
 
-The objectives of this course are twofold: initially to acquaint students with the basics of creating and working with XR technologies in three groups:
+The objectives of this course consist of several stages.
+
+Initially introduce students to the basics of creating and working with XR technologies in three groups:
 
 [Programming](/XR-110/programming/)
 
@@ -25,7 +27,12 @@ The objectives of this course are twofold: initially to acquaint students with t
 
 [Real-Time Render Engine](/XR-110/rtre/)
 
+Dividing into groups is necessary in order to fit the entire course into a short period of time, not to make the groups too large (no more than 3-4 people) for your comfort, and also to give experience in the interaction of different development departments.
+It is important to understand that this course is introductory, in result all groups will work on the same project, looking at it from different points of view. 
+However, regardless of the program you choose, recordings of classes in other areas will be available to you and you will be able to view them as they are published or after completing the course.
+
 In the next stage, these groups will be transformed into teams that will implement a prototype for a real project. Within this framework, it will be necessary to interact with external artists - "clients", use a version control system, and project management system. The final stage will be a presentation - exhibition.
+
 
 #### The main topics to be covered in this course include:
 
@@ -45,6 +52,8 @@ In the next stage, these groups will be transformed into teams that will impleme
 {% include figure.liquid loading="eager" path="assets/img/course_images/img_1_sertifications.png" class="img-fluid rounded z-depth-1" %}
 
 On the other hand, the structural division is combined at one stage in order to make it clear that such projects are almost always the result of coordinated work of different departments of the team.
+
+
 Classes will be held offline. Groups will consist of 3-4 people. In total, ~9 people will work on the final project, divided into departments by specialization. Language of classes - English
 
 {% include figure.liquid loading="eager" path="assets/img/course_images/img_2_self.jpg" class="img-fluid rounded z-depth-1" %}
@@ -155,7 +164,7 @@ The completion of the project will be a presentation - an event at which we will
 
 
 <a href="https://forms.gle/PZ2xH34kF1reNrBM8" style="background: #2698ba ;text-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);text-transform: uppercase;text-decoration: none;margin-right: auto;text-align: center;line-height: 58px;font-weight: bold;margin-left: auto;font-size: 16px;display: block;color: white;width: 280px;height: 58px;">
-  Fill the form
+  Fill the registration form
 </a>
  
 
