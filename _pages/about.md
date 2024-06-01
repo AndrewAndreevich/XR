@@ -38,9 +38,9 @@ Since the topic of Spatial computing is quite complex and has a high entry thres
 
 Aranovich Andrei Andreevich is a specialist in the field of XR development and creation of digital twins with more than 10 years of experience. Winner of the hackathon “Digital Breakthrough 2019” in the category “observation and analysis of human behavior using computer vision” - registered in the Guinness Book of Records as the largest in the world in terms of the number of participants.
 
+ ![](https://andrewandreevich.github.io/XR-110/assets/img/course_images/logo.jpg)
+ 
 ### Collaborates
-
-![[../../DATA/IMAGES/327189083_932024824455421_7368817561108802620_n 1.jpg]]
 
 The course was created with the support of the Youth Self-Government of the Municipality of Mestia 
 ( მესტიის მუნიციპალიტეტის ახალგაზრდული თვითმმართველობა )
@@ -56,10 +56,12 @@ The program will be divided into a number of stages:
 
 ### The Tasks
 
-![[../../DATA/IMAGES/ExistAndTasks.png]]
+
+![](https://andrewandreevich.github.io/XR-110/assets/img/course_images/ExistAndTasks.jpg)
 
 #### 1. Monument to Delica
-![[../../DATA/IMAGES/5cd93c9559a7fa94a39cefda7f5c8b04 1 1.jpg]]
+
+![](https://andrewandreevich.github.io/XR-110/assets/img/course_images/Delika.jpg)
 ##### Task: 
 Due to the exceptional technical characteristics and prevalence among the residents of the region, the task was set to create and place a monument to the Mitsubishi Delica on the map. This is the first task that will need to be completed on the course, within its framework, participants will receive basic experience working with objects, and the implementation of the possibility of working on cultural values. 
 
@@ -77,7 +79,7 @@ Due to the exceptional technical characteristics and prevalence among the reside
 Equipment: Camera with a 25-35 mm lens
 
 #### 2. Wheat crop accounting
-![[../../DATA/IMAGES/image 193.jpg]]
+![](https://andrewandreevich.github.io/XR-110/assets/img/course_images/wheat.jpg)
 
 Задача : 
 В ввиду исключительных технических характеристик и распространенности в тд было поставленно задание создать и поставить на карте памятник автомобилю Митсубиси Делика. Это первое задание которое нужно будет реализовать на курсе, в его рамках участники получат базовый опыт работы с объектами, и реализацией возможности работы над культурными ценностями. 
@@ -95,7 +97,7 @@ Equipment: Camera with a 25-35 mm lens
 
 Техника : Дрон 
 
-![[../../DATA/IMAGES/mestia-svaneti-mestiya-svanetiya 1.jpg]]
+![](https://andrewandreevich.github.io/XR-110/assets/img/course_images/park.jpg)
 #### 3. Basic survey of the territory ( Optional )
 
 ![[../../DATA/IMAGES/image 198.jpg]]
