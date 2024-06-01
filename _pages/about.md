@@ -18,11 +18,10 @@ XR-110 is a program that aims to provide the audience with a basic understanding
 Since the topic of Spatial computing is quite complex and has a high entry threshold, in order not to scare off participants, the course is designed as an interactive step-by-step narrative - a set of quests. This was achieved through a number of decisions: 
 
 1) Several preliminary trips to the area were made ([link 1](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83% A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-3d-%E1%83%9B%E1%83%9D%E1%83%93%E1%83%94%E1%83%9A%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%90),[link 2](https://www.mestiayouth.org/%E1%83%A1%E1%83%98%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98%E1%83%98%E1%83%A1-%E1%83%A2%E1%83%94%E1%83%A5%E1%83%9 C%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%99%E1%83%9A%E1%83%A3%E1%83%91%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%A4%E1%83%A3%E1%83%AB%E1%83%9C%E1%83%94%E1%83%91%E1%83%90)) which allowed us to form a clear understanding of the audience and the tasks that can be set for it. 
+
+
 2) Based on the information collected during the field visits (a set of scans), a prototype of an interactive map application was created, which will be used for the visualization of the objectives and results of the course.
-
-
 ![[https://andrewandreevich.github.io/XR-110/assets/AppExample_1.mp4]]
-
 
 3) The format of the educational program consists of a set of missions set by the Youth Self-Government of the Municipality with a focus on gamification of the process.
 
@@ -47,6 +46,10 @@ The course was created with the support of the Youth Self-Government of the Muni
 ( მესტიის მუნიციპალიტეტის ახალგაზრდული თვითმმართველობა )
 
 
+### The Tasks
+![](https://andrewandreevich.github.io/XR-110/assets/map.jpg)
+
+
 ### The structure
 The program will be divided into a number of stages:
 
@@ -55,10 +58,11 @@ The program will be divided into a number of stages:
 3) Integration of material into an existing prototype of the regional map application 
 4) Demonstration of the results of the work to a wide audience
 
-### The Tasks
-![](https://andrewandreevich.github.io/XR-110/assets/map.jpg)
+
 
 #### 1. Monument to Delica
+
+
 
 ![](https://andrewandreevich.github.io/XR-110/assets/delika.jpg)
 ##### Task: 
@@ -80,22 +84,21 @@ Equipment: Camera with a 25-35 mm lens
 #### 2. Wheat crop accounting
 ![](https://andrewandreevich.github.io/XR-110/assets/wheat.jpg)
 
-Задача : 
-В ввиду исключительных технических характеристик и распространенности в тд было поставленно задание создать и поставить на карте памятник автомобилю Митсубиси Делика. Это первое задание которое нужно будет реализовать на курсе, в его рамках участники получат базовый опыт работы с объектами, и реализацией возможности работы над культурными ценностями. 
+##### Task: 
+As part of the project on growing wheat in the region ([link 1](https://www.mestiayouth.org/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%94%E1%83%A5%E1%83%A2%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%94%E1%83%AE%E1%83%9D%E1%83%A0%E1 %83%91%E1%83%9A%E1%83%94%E1%83%9D%E1%83%91%E1%83%98%E1%83%A1-%E1%83%92%E1%83%90%E1%83%9C%E1%83%95%E1%83%98%E1%83%97%E1%83%90%E1%83%A0%E1%83%94%E1%83%91%E1%83%90)) it is necessary to visualize the areas involved in the program. 
+##### Stages: 
+1) Find out the boundaries of the areas where wheat is grown. 
+2) Go to the location and shoot the territory using a drone 
+3) Make retopology and rebaking 
+4) Determine the place on the map where it will stand 
+5) Install the object 
+6) Display infographics 
+7) Build the application 
 
-Этапы : Найти Делику Матовую, которую можно было легко отснять 
-Отсканировать машину, 
-Сделать ретопологию, и перезапекание 
-Сделать дизайн памятника
-Добавить скалы, поставить делику на них
-Определить место на карте где она будет стоять 
-Установка памятница в карту 
-Билд приложения 
-![](https://andrewandreevich.github.io/XR-110/assets/photo_fields.jpg)
+##### Tags: #Wide #Econimics 
 
-Теги : Расширенный формат пополнения карты объектами, Экономика региона
-
-Техника : Дрон 
+##### Technique: 
+Mavic drone
 
 ![](https://andrewandreevich.github.io/XR-110/assets/park.jpg)
 #### 3. Basic survey of the territory ( Optional )
