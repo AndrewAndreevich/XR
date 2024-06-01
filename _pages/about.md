@@ -59,9 +59,8 @@ The program will be divided into a number of stages:
 4) Demonstration of the results of the work to a wide audience
 
 ### The Tasks
+{% include figure.liquid loading="eager" path="assets/ExistAndTasks.jpg" class="img-fluid rounded z-depth-1" %}
 
-
-![](https://andrewandreevich.github.io/XR-110/assets/ExistAndTasks.jpg)
 
 #### 1. Monument to Delica
 
