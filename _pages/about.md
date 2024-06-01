@@ -21,10 +21,7 @@ Since the topic of Spatial computing is quite complex and has a high entry thres
 2) Based on the information collected during the field visits (a set of scans), a prototype of an interactive map application was created, which will be used for the visualization of the objectives and results of the course.
 
 
-![[../../DATA/IMAGES/MAIN_H.mp4]]
-
- ![](https://andrewandreevich.github.io/XR-110/assets/AppExample_1.mp4)
-
+![[https://andrewandreevich.github.io/XR-110/assets/AppExample_1.mp4]]
 
 
 3) The format of the educational program consists of a set of missions set by the Youth Self-Government of the Municipality with a focus on gamification of the process.
@@ -59,12 +56,11 @@ The program will be divided into a number of stages:
 4) Demonstration of the results of the work to a wide audience
 
 ### The Tasks
-{% include figure.liquid loading="eager" path="assets/ExistAndTasks.jpg" class="img-fluid rounded z-depth-1" %}
-
+![](https://andrewandreevich.github.io/XR-110/assets/map.jpg)
 
 #### 1. Monument to Delica
 
-![](https://andrewandreevich.github.io/XR-110/assets/Delika.jpg)
+![](https://andrewandreevich.github.io/XR-110/assets/delika.jpg)
 ##### Task: 
 Due to the exceptional technical characteristics and prevalence among the residents of the region, the task was set to create and place a monument to the Mitsubishi Delica on the map. This is the first task that will need to be completed on the course, within its framework, participants will receive basic experience working with objects, and the implementation of the possibility of working on cultural values. 
 
@@ -95,6 +91,7 @@ Equipment: Camera with a 25-35 mm lens
 Определить место на карте где она будет стоять 
 Установка памятница в карту 
 Билд приложения 
+![](https://andrewandreevich.github.io/XR-110/assets/photo_fields.jpg)
 
 Теги : Расширенный формат пополнения карты объектами, Экономика региона
 
