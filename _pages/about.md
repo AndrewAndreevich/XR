@@ -21,7 +21,8 @@ Since the topic of Spatial computing is quite complex and has a high entry thres
 
 
 2) Based on the information collected during the field visits (a set of scans), a prototype of an interactive map application was created, which will be used for the visualization of the objectives and results of the course.
-![[https://andrewandreevich.github.io/XR-110/assets/AppExample_1.mp4]]
+<video src="[/assets/AppExample_1.mp4" class="img-fluid rounded z-depth-1" width="720" height="auto" autoplay="" controls=""></video>
+
 
 3) The format of the educational program consists of a set of missions set by the Youth Self-Government of the Municipality with a focus on gamification of the process.
 
