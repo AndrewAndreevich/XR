@@ -109,4 +109,12 @@ Mavic drone
 Reworking existing scans or surveying new areas. Provided that previous tasks were completed on time.
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-519X26H4CH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-519X26H4CH');
+</script>
