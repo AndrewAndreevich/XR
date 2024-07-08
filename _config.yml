@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: 
-middle_name:
-last_name: 
-email: you@example.com
+title: aaorg # the website title (if blank, full name will be used instead)
+first_name: Andrei
+middle_name: 
+last_name: Andreevich
+email: aaorgstorage@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Andrei Andreevich
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: xr, ar, vr, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  site_logo.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
