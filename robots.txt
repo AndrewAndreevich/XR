@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://andrewandreevich.github.io/XR-110//sitemap.xml
+Sitemap: https://andrewandreevich.github.io/aaorgltd//sitemap.xml
