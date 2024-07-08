@@ -2,6 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+name: aaorg
 title: blank # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name: 
