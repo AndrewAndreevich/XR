@@ -1,10 +1,10 @@
 ---
 layout: about
 permalink: /contacts/
-title: Contacts
+title: contacts
 description: 
 nav: true
-nav_order: 1
+nav_order: 4
 ---
 
 # XR-112 Visual Design

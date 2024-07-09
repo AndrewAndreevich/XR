@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /educational_programs/
-title: Educational programs
+title: educational programs
 description: 
 nav: true
 nav_order: 2
