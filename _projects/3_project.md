@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3
+title: Mestia Municipality Map
 description: another without an image
 img:
 importance: 3

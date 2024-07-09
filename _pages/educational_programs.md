@@ -1,7 +1,7 @@
 ---
 layout: about
-permalink: /programming/
-title: programming
+permalink: /educational_programs/
+title: Educational programs
 description: 
 nav: true
 nav_order: 2

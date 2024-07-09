@@ -1,7 +1,7 @@
 ---
 layout: about
-permalink: /rtre/
-title: rtre
+permalink: /services/
+title: Services
 description: 
 nav: true
 nav_order: 3

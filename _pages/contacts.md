@@ -1,7 +1,7 @@
 ---
 layout: about
-permalink: /visual_design/
-title: visual design
+permalink: /contacts/
+title: Contacts
 description: 
 nav: true
 nav_order: 1
