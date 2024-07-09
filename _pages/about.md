@@ -5,12 +5,12 @@ permalink: /
 nav_order: 1
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
 ---
 
-This is a group of enthusiasts working in the field of [Digital Twins](https://en.wikipedia.org/wiki/Digital_twin), [Spatial computing](https://en.wikipedia.org/wiki/Spatial_computing/) , [Data and narrative visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization) and [Immersive Simulations](https://en.wikipedia.org/wiki/Immersive_sim).
+AAORG is a group of enthusiasts working in the field of [Digital Twins](https://en.wikipedia.org/wiki/Digital_twin), [Spatial computing](https://en.wikipedia.org/wiki/Spatial_computing/) , [Data and narrative visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization) and [Immersive Simulations](https://en.wikipedia.org/wiki/Immersive_sim).
 
 Organized by Andrey Andreevich - a specialist in the field of computer graphics and also an expert in virtual, augmented and mixed reality.
 
