@@ -23,7 +23,3 @@ On this site you can see all our projects, services and educational initiatives.
 
 
 
-
-
-
-
