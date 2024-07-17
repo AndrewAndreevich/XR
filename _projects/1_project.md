@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Library about Georgia
-description: a project with a background image
-img: assets/img/12.jpg
+description: Exploring new formats for telling stories about places
+img: assets/projects/project_01_library/p_01_cover.jpg
 importance: 1
 category: work
 ---

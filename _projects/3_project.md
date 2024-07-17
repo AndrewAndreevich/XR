@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Mestia Municipality Map
-description: a project with a background image
-img: assets/img/12.jpg
+description: Interactive map of the region
+img: assets/projects/project_03_mestia/p_03_cover.jpg
 importance: 3
 category: work
 ---

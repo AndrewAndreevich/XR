@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Kobayr Monastery
-description: a project with a background image
-img: assets/img/3.jpg
+description: Digitization of a cultural heritage object
+img: assets/projects/project_02_kobair/p_02_cover.jpg
 importance: 2
 category: work
 giscus_comments: true
