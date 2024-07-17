@@ -17,6 +17,7 @@ AAORG is a group of professionals working in several fields:
 [Spatial computing](https://en.wikipedia.org/wiki/Spatial_computing/)  
 [Data and narrative visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization) and [Immersive Simulations](https://en.wikipedia.org/wiki/Immersive_sim).
 
+
 The group is engaged in the implementation of projects in collaboration with individual authors, social institutions and governments.
 The direction of the projects is the digitization of historical monuments, virtualization of social institutions and public processes, visualization of complex data, and also in design research.
 We are also engaged in the implementation of Development Tools in the field of our interests, which allows us to make our work more efficient.
