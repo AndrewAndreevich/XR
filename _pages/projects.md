@@ -5,11 +5,11 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: []
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/projects.md [work, research] -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -46,7 +46,6 @@ horizontal: false
   <!-- Generate cards for each project -->
 
 {% if page.horizontal %}
-
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
