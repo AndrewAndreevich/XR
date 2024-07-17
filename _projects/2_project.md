@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kobayr Monastery Complex
-description: a project with a background image and giscus comments
+description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
 category: work
