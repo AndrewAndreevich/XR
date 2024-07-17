@@ -2,9 +2,9 @@
 layout: page
 title: Mestia Municipality Map
 description: another without an image
-img:
-importance: 3
-category: fun
+img: assets/img/12.jpg
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
