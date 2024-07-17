@@ -3,7 +3,7 @@ layout: page
 title: Mestia Municipality Map
 description: another without an image
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: work
 ---
 
