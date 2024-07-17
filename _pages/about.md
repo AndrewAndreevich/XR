@@ -14,7 +14,9 @@ AAORG is a group of professionals working in several fields:
 
 
 [Digital Twins](https://en.wikipedia.org/wiki/Digital_twin) 
+
 [Spatial computing](https://en.wikipedia.org/wiki/Spatial_computing/)  
+
 [Data and narrative visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization) and [Immersive Simulations](https://en.wikipedia.org/wiki/Immersive_sim).
 
 
