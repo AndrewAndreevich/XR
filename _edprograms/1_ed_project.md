@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Library about Georgia
-description: Exploring new formats for telling stories about places
-img: assets/projects/project_01_library/p_01_cover.jpg
+title: XR-110
+description: Spatial Computing and Area Scanning
+img: assets/ed_programs/prof_pic_xr-110.jpg
 importance: 1
-category: work
+category: xr
 ---
 
 Every project has a beautiful feature showcase page.

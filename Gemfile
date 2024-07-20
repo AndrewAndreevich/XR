@@ -16,11 +16,13 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'execjs'
+    gem 'mini_racer'
 end
 group :other_plugins do
+    gem 'wdm', '>= 0.1.0', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
     gem 'feedjira'
     gem 'httparty'
 end

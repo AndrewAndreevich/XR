@@ -165,6 +165,9 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
+  edprograms:
+    output: true
+    permalink: /edprograms/:path/
   news:
     defaults:
       layout: post
@@ -173,6 +176,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+
 
 announcements:
   enabled: true
@@ -383,6 +387,7 @@ enable_tooltips: false # enables automatic tooltip links generated for each sect
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: false # enables categorization of projects into multiple categories
+enable_educational_categories: false # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 
@@ -470,6 +475,7 @@ jsonresume:
   - education
   - publications
   - projects
+  - edprograms
   - volunteer
   - awards
   - certificates

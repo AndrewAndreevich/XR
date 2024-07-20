@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: edprograms
+permalink: /edprograms/
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: []
 horizontal: false
 ---
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.edprograms | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 

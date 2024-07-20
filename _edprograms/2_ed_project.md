@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Library about Georgia
-description: Exploring new formats for telling stories about places
-img: assets/projects/project_01_library/p_01_cover.jpg
-importance: 1
-category: work
+title: XR-111
+description: Spatial Computing and Area Scanning 1
+img: assets/ed_programs/prof_pic_xr-111.jpg
+importance: 2
+category: scan
 ---
 
 Every project has a beautiful feature showcase page.
@@ -43,8 +43,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
@@ -63,7 +63,7 @@ The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
-     
+
 {% raw %}
 
 ```html
